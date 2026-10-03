@@ -35,6 +35,16 @@
   你的农场键盘_概念图.png    高分辨率概念效果图
 ```
 
+## 核心资产预览
+
+输入条 / 候选栏主图 `skin1.png`（上排拼音 + 下排候选，首选草绿胶囊）：
+
+![skin1.png 输入条主图](https://aka.doubaocdn.com/s/Ml74Vxnxug)
+
+主图遮罩 `skin1_mask.png`（黑色透明、白色显示）：
+
+![skin1_mask.png 遮罩](https://aka.doubaocdn.com/s/Vzxb5be28W)
+
 ## 构建方式
 
 搜狗 PC 皮肤以 `.ssf` 为扩展名（本质为 zip），根目录包含 `skin.ini` 与图片资源：
